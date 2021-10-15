@@ -1,0 +1,8 @@
+{
+    "name": "afeynaud/composer1",
+    "description": "quete composer 22",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Hello\\": "src/Wcs/"}
+    }
+}
